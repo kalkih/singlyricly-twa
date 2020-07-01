@@ -1,0 +1,25 @@
+{
+  "packageId": "com.singlyricly.app",
+  "host": "singlyricly.com",
+  "name": "Singlyricly",
+  "launcherName": "Singlyricly",
+  "themeColor": "#000000",
+  "navigationColor": "#000000",
+  "backgroundColor": "#000000",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://singlyricly.com/img/icons/android-chrome-any-512x512.png",
+  "maskableIconUrl": "https://singlyricly.com/img/icons/android-chrome-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "alias": "android",
+    "path": "./android.keystore"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://singlyricly.com/manifest.json",
+  "fallbackType": "customtabs",
+  "appVersion": "1"
+}
